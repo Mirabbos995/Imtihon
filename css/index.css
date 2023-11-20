@@ -290,6 +290,7 @@ font-weight: 400;
 
 .section2-right{
   width: 50%;
+  border-radius: 50%;
 }
 
 .section2-price{
